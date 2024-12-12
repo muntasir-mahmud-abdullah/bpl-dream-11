@@ -1,0 +1,72 @@
+[
+  {
+    "playerId": 1,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/RBcyNQJ/th-id-OIP-2dcg-GDMZRd8n-NPrmz-Xb78w-Ha-Ha-w-250-h-250-c-8-rs-1-qlt-90-r-0-o-6-dpr-1-4-pid-3.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Left-arm orthodox spin",
+    "biddingPrice": 1900000
+  },
+  {
+    "playerId": 2,
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/LPhXtsD/OIP-BOj-Xgnol-Ah6-Ae8-BWLsi9w-AAAA-w-185-h-185-c-7-r-0-o-5-dpr-1-4-pid-1.jpg",
+    "role": "Wicketkeeper-Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "None",
+    "biddingPrice": 1600000
+  },
+  {
+    "playerId": 3,
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/2gp64zP/th-q-Tamim-Iqbal-Press-Conference-w-120-h-120-c-1-rs-1-qlt-90-cb-1-dpr-1.jpg",
+    "role": "Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "None",
+    "biddingPrice": 1800000
+  },
+  {
+    "playerId": 4,
+    "name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/dB5p7pt/OIP-Nc-DHErc-OVh-OJdvbt-A1kd-QHa-E8-w-231-h-180-c-7-r-0-o-5-dpr-1-4-pid-1.jpg",
+    "role": "All-Rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm off-spin",
+    "biddingPrice": 1500000
+  },
+  {
+    "playerId": 5,
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/h88vNXT/OIP-n91-Ny2-Z-O1-U5agi-VDFQKQHa-Fj-w-220-h-180-c-7-r-0-o-5-dpr-1-4-pid-1.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1400000
+  },
+  {
+    "playerId": 6,
+    "name": "Mehidy Hasan Miraz",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/wcB8cbx/OIP-fhz-ZMbnm-Eq-JAO5l-Ui-H4tg-Ha-EK-w-281-h-180-c-7-r-0-o-5-dpr-1-4-pid-1.jpg",
+    "role": "All-Rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm off-spin",
+    "biddingPrice": 1700000
+  },
+  {
+    "playerId": 7,
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/x3RSg82/th-q-Mustafizur-Rahman-White-Background-Pic-w-120-h-120-c-1-rs-1-qlt-90-cb-1-dpr-1.jpg",
+    "role": "Bowler",
+    "battingType": "Left-handed",
+    "bowlingType": "Left-arm fast-medium",
+    "biddingPrice": 1600000
+  }
+]
