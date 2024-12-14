@@ -1,6 +1,6 @@
 import React from "react";
 
-const Blog = ({ blog, handlePrice }) => {
+const Blog = ({ blog, handleSelected }) => {
   const { name, country, battingType, bowlingType, biddingPrice, role, image } =
     blog;
   //   console.log(blog);
@@ -19,11 +19,17 @@ const Blog = ({ blog, handlePrice }) => {
         <div className="flex justify-between my-2">
           <div className="badge badge-outline">{role}</div>
           <div className="badge badge-outline"> Price : ${biddingPrice}</div>
-          </div>
-        <div className="mt-2">
-        <button onClick={()=>handlePrice(biddingPrice)} className="btn btn-sm">Choose Player</button>
         </div>
-        
+        <div className="mt-2">
+          <button
+            onClick={() => {
+              handleSelected(blog, biddingPrice);
+            }}
+            className="btn btn-sm"
+          >
+            Choose Player
+          </button>
+        </div>
       </div>
     </div>
   );

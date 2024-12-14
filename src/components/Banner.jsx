@@ -4,12 +4,10 @@ import bannerimg from '../assets/banner-main.png'
 const Banner = ({handleCredit}) => {
     const initalCredit = 6000000;
     return (
-<div
-  className="hero min-h-screen"
-  style={{
+
+  <div className="max-w-screen-xl hero-overlay mx-auto rounded-lg hero min-h-screen"   style={{
     backgroundImage: `url(${bannerbg})`,
       }}>
-  <div className="max-w-screen-xl mx-auto"></div>
   <div className="text-center">
     <div className="text-center flex flex-col justify-center items-center space-y-4">
         <img src={bannerimg} alt="" />
@@ -20,7 +18,7 @@ const Banner = ({handleCredit}) => {
       <button onClick={()=>handleCredit(initalCredit)} className="btn btn-primary w-1/5 mx-auto">Claim Free Credit</button>
     </div>
   </div>
-</div>
+  </div>
     );
 };
 

@@ -68,5 +68,35 @@
     "battingType": "Left-handed",
     "bowlingType": "Left-arm fast-medium",
     "biddingPrice": 1600000
+  },
+  {
+    "playerId": 8,
+    "name": "Afif Hossain",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/rfXQ9bt/images-q-tbn-ANd9-Gc-Srq-LYF2-Z1-Mpc-Xk-Y3-BH4-Ia-Cix-TT-5-Ug5-IW3-A-s.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm off-spin",
+    "biddingPrice": 1400000
+  },
+  {
+    "playerId": 9,
+    "name": "Mohammad Saifuddin",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/B6TskmN/images-q-tbn-ANd9-Gc-SVUB3-Zg-FTl2-FCMq-Ur-CN6-UIGAWGJte3i-Zc8-Ow-s.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm medium-fast",
+    "biddingPrice": 1300000
+  },
+  {
+    "playerId": 13,
+    "name": "Nurul Hasan Sohan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/cDjXpMw/images-q-tbn-ANd9-Gc-T7-G0-Xh9bg5oc5id-CTK9-GZGqj-ETPNS2-Mqs-Vbg-s.jpg",
+    "role": "Wicketkeeper-Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "None",
+    "biddingPrice": 1100000
   }
 ]
