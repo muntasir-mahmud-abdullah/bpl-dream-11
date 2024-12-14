@@ -21,7 +21,7 @@ Welcome to **BPL-DREAM 11**. This project involves building a React-based applic
 - **Implementing Selected Player Remove Functionality**:
   Adding a "Remove" button to each selected player card for which after On click, the player wil be removed from the selected players' section.
 
-- **Adding More Player Button Functionality **:
+- **_Adding More Player Button Functionality_**:
   Implementation of an "Add More Players" button, On click, it will display the available player section again for the user to choose from.
 
 - **Implementation of Perfect Validation on Player selection**: - on clicking choose, player, if player selected previously then user will get an alert(player already selected). - if the selected player is already 6 then then user will get an alert
