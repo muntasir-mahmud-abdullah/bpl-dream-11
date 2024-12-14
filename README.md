@@ -1,4 +1,4 @@
-# <img width="30px" src="assets/logo.png"/> BPL-DREAM 11
+# BPL-DREAM 11
 
 Welcome to **BPL-DREAM 11**. This project involves building a React-based application where users can select and manage cricket players for a team.It also includes UI, handle player selection, coin limitations, and a complete the system.Technologies used in this project are given below:
 
